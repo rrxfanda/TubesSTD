@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1704680455 source:c:\users\daffa\downloads\tubes-refanda\tubes-refanda\tubes.cpp
+	"tubes.h"
+
+1704678036 c:\users\daffa\downloads\tubes-refanda\tubes-refanda\tubes.h
+	<iostream>
+
+1704677069 source:c:\users\daffa\downloads\tubes-refanda\tubes-refanda\main.cpp
+	"tubes.h"
+
